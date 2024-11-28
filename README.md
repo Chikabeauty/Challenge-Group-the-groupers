@@ -1,0 +1,1 @@
+This webpage describes groupers, a type of large ocean fish. In the first step I made the first sentences of each paragraph stand out by adding <span> tags around each first sentence. Then I gave both of my <span> tags a class called "first-sentence".
